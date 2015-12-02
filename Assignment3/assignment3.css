@@ -1,0 +1,79 @@
+h1 { 
+    text-align:center;
+    display:block;
+    background-color:#AAAAAA;
+    z-index:-99999999;
+}
+
+body { 
+    background-image: url(http://parentinghealthybabies.com/wp-content/uploads/2013/03/potato.jpg);
+}
+
+#i {
+    border:2px solid #000000;
+    height:100px;
+    width:100px;
+    text-align:center;
+    border-radius:100px;
+    background-color:#FFFF00;
+}
+
+#arandomid {
+    text-align:center;
+    margin-top:40px;
+}
+
+#anotherrandomid {
+    text-align:center;
+    margin-top:30px;
+}
+
+#j {
+    border:2px solid #000000;
+    height:100px;
+    width:100px;
+    text-align:center;
+    border-radius:100px;
+    background-color:#FFFF00;
+    z-index:6;
+    top:300px;
+    position:absolute;
+    left:100px;
+}
+
+#a {
+    position:absolute;
+    z-index:5;
+    top:-10px;
+}
+
+#d {
+    width:300px;
+    height:500px;
+    position:absolute;
+    z-index:4;
+}
+
+#e {
+    position:absolute;
+    bottom:10px;
+    right:10px;
+    width:200px;
+    height:250px;
+}
+
+#h {
+    position:absolute;
+    bottom:20px;
+    z-index:20;
+    left:20px;
+}
+
+#TAILOPEZZZ {
+    z-index:999999999;
+    position:absolute;
+    vertical-align:middle;
+    height:300px;
+    width:500px;
+    right:500px;
+}
